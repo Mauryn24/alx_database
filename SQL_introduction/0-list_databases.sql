@@ -1,2 +1,2 @@
---this is an sql file to list databases
-SHOW databases;
+--Lists all databases of MYSQL server
+SHOW DATABASES;
